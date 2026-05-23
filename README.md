@@ -3,9 +3,7 @@
 
 Studente in Ingegneria Informatica | Focalizzato su Tech & Cybersecurity | Complex Problem Solving
 
-## Objective
-[Provide Objective - Remove this afterwards]]
-
+## Obiettivo Professionale
 Il mio percorso di studi in ingegneria informatica mi ha permesso di sviluppare una profonda passione per la cybersecurity. Attualmente il mio obiettivo è inserirmi in questo settore, aspirando nello specifico al ruolo di Tier 1 Analyst all'interno di un Security Operations Center (SOC).
 
 ## Skills
