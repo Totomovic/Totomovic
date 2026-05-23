@@ -1,4 +1,4 @@
-# Ciao, sono Tommmaso
+# Ciao, sono Tommaso
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tommaso-rinaldi-b9ba7b3a1/)
 
 Studente in Ingegneria Informatica | Focalizzato su Tech & Cybersecurity | Complex Problem Solving
