@@ -1,12 +1,13 @@
 # Ciao, sono Tommmaso
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tommaso-rinaldi-b9ba7b3a1/)
 
-Computer Engineering Student | Focused on Tech & Cybersecurity  | Complex Problem Solving
+Studente in Ingegneria Informatica | Focalizzato su Tech & Cybersecurity | Complex Problem Solving
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
 Il mio percorso di studi in ingegneria informatica mi ha permesso di sviluppare una profonda passione per la cybersecurity. Attualmente il mio obiettivo è inserirmi in questo settore, aspirando nello specifico al ruolo di Tier 1 Analyst all'interno di un Security Operations Center (SOC).
+
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
