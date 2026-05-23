@@ -1,7 +1,7 @@
 # Hello, I'm Tom
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tommaso-rinaldi-b9ba7b3a1/)
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Computer Engineering Student | Tech & Cybersecurity Enthusiast | Complex Problem Solving
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
